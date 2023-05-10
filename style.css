@@ -1,0 +1,44 @@
+.row {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+.col {
+
+    color: white;
+    flex: 1;
+    background-color: rgb(37, 126, 107);
+    height: 50px;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+
+}
+
+.col-2 {
+
+    color: white;
+    flex: 2;
+    background-color: rgb(37, 126, 107);
+    height: 50px;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+}
+
+.col-3 {
+
+    color: white;
+    flex: 3;
+    background-color: rgb(37, 126, 107);
+    height: 50px;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+}
